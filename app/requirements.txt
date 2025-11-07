@@ -1,0 +1,13 @@
+
+torch
+transformers[torch]
+datasets
+accelerate
+pandas
+scikit-learn
+fastapi
+uvicorn[standard]
+python-multipart
+
+tiktoken
+sentencepiece
